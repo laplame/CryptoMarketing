@@ -1,0 +1,420 @@
+# CryptoMarketing
+
+Guia para monetizar en redes sociales.
+
+Que es vender? Y vender 3.0
+
+    Cuando era pequeño mi papa se dedicaba comerciar productos al mayoreo. Creci entre cajas de productos de belleza, juguetes, ropa  y papeleria. Mi papa vendia de todo para poder darnos una educación. Yo en ese momento no entendia muy bien porque mi papa me decia que estaba viendo la mejor educacion frente a mis ojos. La clasica frase de mi papa es "Todo es venta!" también tenia esta otra frase  "aprende a vender y nunca seras pobre!""
+
+    Algo que realmente me marco es que me enseñó que habia gente que solo vendia por la ubicacion del lugar donde tenia su negocio. Y me decía esos son vendedores improvisados, nunca son vendedores profesionales, si los pones en otra locación no lograran vender nada, y era cierto, vender es un arte.
+
+    Aprendi que vender es maravilloso porque te genera muchas satisfacciones al igual que el arte, Tambien mi papa no diferenciaba mucho a un musico, de un vendedor, de hecho mi papa tambien era músico.
+
+    Y el siempre nos decia que no importaba mucho la locacion, el producto, y el precio cuando eres bueno vendiendo.
+
+    Pero que es ser buen vendedor?
+
+    Bueno, bueno, todos tarde o temprano nos enfrentamos a la disyuntiva del intercambio libre de algun bien o servicio que no podemos producir nosotros mismos, en este sentido cada que nos enfrentamos a este intercambio hay un metalenguaje, un sistema de trabajo estandarizado por milenios que determina que dado el valor de algun bien, el ser humano puede estimar un costo por el intercambio. Esta sencilla ecuacion ha determinado miles de vidas a traves de guerras por motivos economicos a lo largo y ancho del mundo, ponerse de acuerdo a que valores son los que prevalecen en la sociedad humana delimitados por el espacio tiempo, es tarea de la civilizacion. Como en todo intercambio hay protocolos de trabajo a la hora de hacer posible una transaccion economica. Podemos al igual que en el proceso de una conversacion humana determinar que hay un emisor y un receptor, tambien hay un mensaje, un medio, y un codigo. Todos estos elementos son solo una parte la parte virtual del proceso, existe una parte fisica, que omitimos como seria el aire que transporta las ondas de audio y los receptores a los cuales llamamos oidos que son la parte final de un sistema nervioso super complejo que decodifica, esto en tiempo real y genera capas sobre capas de complejidad al mensaje recibido. En terminos de computo por ejemplo decidimos que hay que precargar por ejemplo (asumir) que vamos a usar un lenguaje en este caso el español, ingles, etc.
+
+    Nuestro mensaje aparte de todo debe llevar encabezados que son pequeñas etiquetas que dicen por ejemplo si se esta siendo ironico, serio, si se esta usando un slang, o una regionalizacion del mensaje.
+
+    En este orden de ideas una transaccion economica como podria ser el intercambio de mercancias tiene el mismo nivel de complejidad y de abstraccion en multiples niveles que tiene el lenguaje humano, sin embargo y a pesar de todo este meta-lenguaje que es el comercio tiene miles de subsistemas que permiten al ser humano poder determinar una parte blanda tipo software como lo seria la venta, y  otra parte dura como lo es la logistica. por parte de la parte blanda se puede decir que la venta es mas que una tecnica un arte, el arte de vender porque es la parte que conecta con el ser humano ya  es la parte inmediatamente ligada al ser humano. La parte dura por otra parte es la parte de la logistica de la transaccion, aqui  opera el dinero y todo lo que implica el intercambio en si, la ciencia dura detras de cada transacción.
+
+    De esta manera tenemos una tecnica y un arte al mismo tiempo en cada transaccion. Pero al igual que en el lenguaje no podemos decir que aunque todos los seres humanos podemos hablar todos somos expertos con las palabras y que al mismo tiempo todos los seres humanos usan las palabras de la misma manera, hay personas que al momento de comunicarse generan emociones en los que los escuchan que difícilmente podrán ejercer los muy tecnicos. En este sentido toda conversacion puede volverse sublime y\o puramente transaccional.
+
+    A cada gran vendedor existe un especialista en el producto o servicio que se esta vendiendo, y tambien hay aquellos que solo estan buscando un sueldo. El motivante de un buen vendedor es en su mayoria la participacion economica en la transaccion, o dicho de otro modo la comision.
+
+    Y es por esto que a veces que  llegar a ser experto en un producto puede implicar años de trabajo en un sector y aun asi aunque una persona que se especializa en un sector puede ser uno de los mejores, tal vez no sea la mejor opcion  a la hora de comunicar las ventajas de producto, o viceversa.
+
+    Esta es la razón por la cual se usa en este sentido a intermediarios para las ventas, estos intermediarios se hacen llamar agentes de ventas, y/o comisionistas, gente que ayuda a que la venta se realice, los intermediarios de ventas generan un sistema intermedio para que la venta se concrete porque conocen ambas partes de la transaccion, este modelo de intermediacion comercial lleva milenios funcionando y hoy en dia se ha estandarizado como parte de un acuerdo por parte de quien vende como comisionista.
+
+    Los comisionistas crean un sistema de confianza y de trabajo con el cual el que compra se siente con la disposición de comprar, en este sentido los comisionistas ayudan a la venta.
+
+    Sin embargo el comisionista tiene participacion del acuerdo, ya que previamente ha llegado a un acuerdo con el que ofrece sus bienes o servicios.
+
+    Asi que aunque el comisionista busca su beneficio propio, y alinea sus intereses  del lado del que vende, este sistema ha cambiado últimamente de forma natural ya que se ha creado la figura de 
+
+la marca personal, 
+
+influencer, 
+
+growth partner 
+
+el representante de vida.
+
+    Hoy en dia gracias al gran crecimiento del mercado online y de las redes sociales estos procesos en esencia siguen siendo los mismos pero se han adaptado a los nuevos medios. En un inicio un vendedor, comisionista ocupaba su tiempo asignado al dia para vender con la cantidad finita de horas que implica trabajar con un cliente a la vez. El limite era fisico, porque el limite lo impone vender una vez a cada cliente, si dividimos 8 hrs de ventas en 20 minutos de explicación para cada cliente, nos da 24 clientes al dia por jornada de trabajo. Todo este trabajo esta también limitado por la disposición del vendedor y del cliente de recibir la oferta! ya que no siempre el cliente esta en la disposicion de comprar, buscar el momento indicado para la venta en si es toda una diciplina. Y lo abordaremos mas adelante.
+
+    Sin embargo si tu sabes generar contenido online para plataformas de video, y,/o blogs estas creando un sistema de informacion que fácilmente se puede convertir en una maquina de ventas , los creadores de contenido ahora venden en el y transcurso de la noche, y la madrugada en la intimidad de la habitacion debajo de las sabanas, un buen creador de contenido llega la intimidad de  su cliente en ese momento, en que es mas vulnerable. Y si sabe llegar bien llegara en el momento en el que la evocación del deseo se puede materializar en una venta.  En ocasiones el creador de contenido esta mas cerca y es mas intimo porque esta debajo de la sabana en la cama en el celular,  justo en medio de la esposa y el que va a comprar.
+
+    Yo he recibido leads a las 2 y 3 de la mañana, con clientes que me preguntan, cuanto cuesta esto, o lo otro. Gente que realmente quiere tus productos o servicios, empiezan diciendo,
+
+Encontré tu canal y ahora se lo que necesito,  cuanto cuesta...
+
+    Estoy hablando de esto, y esto en si es  ya mismo es historia antigua, pero reciente. Ya  que a esa hora se respondía manual y era vital poder escribir en los primeros minutos despues de recibido el 1er mensaje, si no la continuidad del proceso de venta se perdia. Mi esposa en ese momento y yo no perdiamos ni un solo momento para contestar mensajes, porque sabias que habia ventas a cada minuto que podian ir de los 3000 a los 5000 dolares. Todo esto fue antes de que llegara el autocontestador de WhatsApp, todo se hacia manual. Ahora todo es maravilloso con tantos sistemas al alcance de la cartera. Pero siempre falta un detalle y es por eso que decidi hacer mi propio sistema.
+
+    El problema es cuando recibes miles de mensajes, al dia y el 99% no estan filtrados, Siendo un vendedor de articulos de oficina y papeleria, mi area de negocio esta limitada a ese tópico y aunque puedo hablar de otros temas la primera ley de la mercadotecnia de Al Ries y Jack Trout, y que siguen super vigentes me dice que de forma consistente mi publico solo asociara mi nombre de canal a 1 tema.
+
+    1. La ley del liderazgo
+
+    “Es mejor ser el primero que ser el mejor”.
+
+    Al Ries Jack Trout
+
+    Y aun asi puede haber gente que me contacte para ser su guia espiritual, y no me malentiendan yo estare encantado de que alguien me pida ayuda pero creo que hay mejores gurus que yo. Y sobre todo gurus que tengan una oferta que se adecue a las personas que desean ayuda de verdad.
+
+Otro gran maestro es Russel Branson que dice que la diferencia entre la cantidad de exito entre dos estrategias de marketing esta relacionado al sistema que esta detras de lo que el cliente no ve. 
+
+    Y esta es la razon por la que estoy escribiendo este libro es para crear una ruta que yo he usado para poder monetizar tu contenido siempre y cuando quieras ofrecer un servicio de valor a la sociedad. No todo son bailes y risas faciles. Tambien el publico se cansa de eso, en el proximo capitulo hablaremos de eso!
+
+ 
+
+Hay una peste de influencers?
+
+Despues del boom de redes sociales y la explosion que han hecho todos en la red, tenemos miles de personas buscando ser virales en internet. Esta estampida de personas que busca a toda costa sus 15 minutos de fama tiene como consecuencias que haya gente que crea que generando contenidos vacios y rapidos les generara un ingreso, En los 90's nacio  la palabra "clickbait", veamos el concepto detras de la misma, carnada y click, o click y carnada? En todo caso lo que se entiende es que hay un click activado por una carnada, pero cual seria la carnada mas adecuada para cada usuario. 
+
+Si abres una sesion de incognito en youtube y ves los primeros 200 bullets, te daras cuenta que el equipo detras de YouTube sabe perfecamente que hay temas generales que hacen que accedas de una forma u otra a Youtube, cuando entras generas una ruta de preferencias, esa ruta se agrega a un numero de usuario. Cuando cierras la ventana de incognito esta cierra tu navegacion de esa sesion, asi que cuando ves la session de incognito estas viendo una de las formas en que el internet nativo funciona, cada que entras ya sea con tu usuario, o de forma incognita ya se esta contemplando que estas buscando, solo que cuando entras con tu usuario el sistema agrega tu historial al perfil que has usado, y esto va generando cada ves mas precision al saber que contenido consumes. Es por ello que el trafico por internet es en si una fuente de datos inmensa para saber como consumes y que consume cada ser humano del planeta, por medio de una conexion directa al cerebro digital que toda la humanidad esta creando en tiempo real.  
+
+Este cerebro sabe cuales son tus preferencias y crea un indice basado en tus preferencias de busqueda. Cuando hablaba con el equipo de TikTok ellos me decian que no era que la plataforma estuviese plagada de baile y chistes, si no que mi navegacion me habia orillado a ver ese tipo de temas , y es cierto, ya que una vez que mejoras habitos de consumo de contenido, TikTok deja de mostrarte tanto contenido superficial y vacio. Ahora todo mi feed de X, Tiktok, Youtube, Instagram, esta plagado de Negocios, emprendimiento, desarrollo de apps y negocios, online. 
+
+Que ha pasado? que las empresas han creado un perfil mio basado en lo que doy click de forma intencionada, cuando me equivoco de video y es un tema que no quiero ver mas, voy a la seccion del la ventana y le doy sin problema a no mostrar mas este tipo de contenido y eso va refinando los temas que no quiero en mi feed. Eso no ha quitado el contenido basura sino que lo ha segmentado y lo omite. Asi que la proxima vez que te aparezca un video de Fantasmas, o de asi se ve esta actriz hoy! supera la tentacion, omite dar click y sigue tu camino buscando por lo que abriste el navegador, en primer lugar. 
+
+Influencers 
+
+Cuando empezaron todas las plataformas de medios este era el viejo oeste, y la gente salia como en el lejano Texas a buscar un espacio ponian una bandera con su nombre diciendo que ese territorio era suyo. Asi empezaron la mayor parte de los influencers a poblar todas las redes sociales. Miles de nichos se han llenado desde entonces, pero a diferencia de la tierra de Arizona, Texas, y California el limite fisico no esta determinado por la cantidad de temas, ni tampoco por la cantidad de forma de abordar dichos temas. 
+
+El limite esta determinado  por la capacidad en la atencion, del individuo, pero mas que por la atencion por el espacio mental que cada individuo tiene en la mente para cada tema, estos temas han sido ampliamente discutidos por Al RIes y Jack Trout en su libro "Batalla por la mente". Un ejemplo comun es que cuando hablo de refresco de cola, solo me vendran a la mente el 1o y el segundo de su categoria, Los demas tendrán una participacion marginal o como otros le llaman en mercadotecnia "The Long Tail".Hablaremos mas de este tema en el siguiente capitulo.  
+
+De la misma manera habrás notado que cuando conversas con alguien siempre busca encasillar lo que le dices en torno a algo ya conocido? Cuando empezaron los taxis en finales del siglo XIX, la gente tuvo que adaptarse a usar el termino generico, a un concepto que eran los "carros de alquiler", Después estos carros alquiler se juntaron para crear un nuevo concepto carros de alquiler por demanda o "Taxis". Después los Taxis empezaron a utilizar automoviles, ya no eran carros de caballos ahora eran automoviles, pero el cocepto seguia siendo valido. Cuando Uber entra a nuestras vidas se utilizaba el termino taxis por aplicacion, pero la mayor parte del exito de uber fue crear una nueva palabra en la mente de toda una generacion. Asi que cuando llegan las patinetas electricas al mercado. Los nuevos CEO's con su  "elevator pitch"  toman prestado el concept diciendo somos como "Uber pero para las patinetas" este es el poder de crear un concepto en la mente del público. Uber definia un modelo de negocio y un sistema que era amigable pero disruptivo al mimos tiempo. Por eso Cuando yo digo que Link4deal es lo que fue el Kindle de  Amazon a Barnes & noble, mucha gente me pregunta que es Barnes & noble?
+
+Todos conocemos una promocion.Y tambien todos conocemos u flyer, nadie nos dijo que podiamos hacer de un flyer promocional algo inteligente?
+
+Se han creado miles de empresas bajo este precepto de copia, pero sin respetar dicha ley, la ley de la categoria, hoy los nuevos marketeros le quieren llamar comunidad, categoria, pero en esencia es la misma ley. Y como lo decian en su momento sus creadores es inmutable.  
+
+Esta es la razón por la que aunque Amazon, quieran crear su propia plataforma de contenidos no puede obtener la cantidad de espacio disponible en la mente del consumidor, porque el cosumidor siempre asociara a amazon con ventas online. En ese sentido Amazon ya gano la partida del E-commerce. En el mismo sentido que TikTok ganó en su categoría, ya que es un lider y fallara al querer hacer un sistema de ventas en su plataforma. Obtendra una participacion pequeña aunque significativa de las ventas. Ambas plataformas deberan crear un nuevo monstruo, que no se asocie a su identidad actual, si quieren obtener espacio en la mente del consumidor final.
+
+ 
+
+Todas las redes sociales tienen su propia forma de monetizar, pero, Link4deal nace justo a la mitad, creando una categoria nueva de trabajo, que toma por partes iguales, lo anterior, como Click Bank, Peixe Urbano y Groupon. E introduce tambien el E-commerce para que cada creador pueda trabajar independientemente de una tienda, si asi lo desea. 
+
+Tengo un amigo con el cual empece el camino del MKT Digital hace unos años hicimos embudos de ventas a partir de un sistema que funcionaba muy bien, el creo un sistema a partir de el tema de aniversario de parejas,  regalos de bodas y mesas de regalos. A el le iba muy bien hasta que un dia tuvo una controversia con Amazon porque alguien de una tienda asociada se quejo de su contenido y el sitema de Amazon lo revisó y  le quito el sistema de afiliados. Anexo imagen. Mi amigo tiene otros embudos pero ya no puede usar Amazon. 
+
+Problemas de marketplace, tengan cuidado con este sistema ya que siempre el marketplace con el cual trabajan utds, y sus clientes puede banear los a utds, ellos o a ambos. Depender de un solo servicio no solo es suicida, sino también estúpido.
+
+Mi ex-mujer despues de haber estudiado durante años la carrera de Economia en una prestigiosa universidad, y haber sido uno de los mejores promedios del pais, se encontro con un sistema de entrevistas que no daban con su la mejor oferta de trabajo para ella, y aunque llevaba años trabajando para distintas empresas no encontro un trabajo adecuado para sus carrera la cual amaba y habia terminado con mucho esfuerzo. Despues de un tiempo me pregunto que si podia ayudarle a hacer un ingreso extra, y le dije que si con gusto, montamos una tienda en Mercado libre Le fue muy bien durante un par de años, pensaba en comprarse un carro y empezo a pensar en dar el enganche para un departamento hasta que le llego una demanda por un juguete del cual no puedo decir el nombre porque la empresa en cuestion tiene los derechos del nombre nadie puede usarlo en internet si no es esa marca. Un juego de cartas basado en la memoria. Mercado libre decidio que no queria meterse en problemas y le dio la razon a la empresa en cuestion quitandole de la noche a la mañana su ingreso seguro a mi ex. Despues en este libro hablaremos del los derechos de propiedad , y porque las leyes son un sistema obsoleto que va en decadencia en todo el mundo.
+
+Otra vez, depender de un marketplace es algo que te puede ayudar hasta que ya no.
+
+Yo mismo tuve una pagina de internet que cree en el el 2007 la cual tenia miles de visitas y era la primera en su tipo, vendia papeleria al mayoreo para oificinas, y teniamos miles de clientes, sin embargo el problema operativo de ciertos negocios es la cantidad de productos y variantes que puede existir en un negocio como la papeleria, ferreteria, farmacias, bisuteria, y novedades.  Yo tenia un problema serio con la cantidad de productos que se podian subir a la plataforma con la cual trabajaba, pagaba sobrecostos sobre cada producto que subia a la pagina solo para poder seguir trabajando, todo esto gracias a la tecnologia que en aquel entonces tenia que usar que era php y bases de datos relacionales, el costo de operacion de ese sistema era altisimo y hacia inviable el poder tener beneficios, esa es una de las razones por las cules las primeras versiones de Facebook se hicieron en SQL y php, hasta que se dieron cuenta de que no se podia sostener el crecimiento de la red social sin cobrar. habia que hacer algo ya que  el costo de trabajo maquina era altisimo, cada cuenta nueva le costaba a facebook varios dolares. Facebook ya tenía Venture capital y el consentimiento de la  CIA, No es hasta que se cambian las Bases de datos  y se crea una nueva tecnologia de renderizado que el crecimiento explosivo de Facebook es posible. Amazon tenia un problema similar. 
+
+Otro problema para los negocios las tecnologías aun no tienen la madurez para explotar el crecimiento.
+
+Amazon no fue rentable hasta varios años después de su fundación. Comenzó como una tienda en línea de libros en 1994, y en 1995 vendió su primer libro[2][5]. Durante sus primeros años, la empresa registró pérdidas significativas, y no fue hasta 2001 que reportó su primer trimestre con ganancias[1]. Por lo tanto, Amazon tardó alrededor de 7 años en volverse rentable desde su fundación en 1994. A lo largo de los años, la empresa diversificó sus operaciones, incursionando en áreas como el comercio electrónico, los servicios de computación en la nube y la producción de contenido original, lo que finalmente la llevó a la rentabilidad[1][3].
+
+Hoy sabemos que Amazon hace alquimia financiera para poder mantener los beneficios fuera de los libros.
+
+Citations:
+
+[1] ¿Amazon es rentable? Rentabilidad de Amazon 1994-2022 - FourWeekMBA https://fourweekmba.com/es/es-rentable-amazon/
+
+[2] Amazon - Wikipedia, la enciclopedia libre https://es.wikipedia.org/wiki/Amazon
+
+[3] Cómo Amazon se convirtió en la empresa más valiosa del mundo y sobrepasó a Microsoft, Apple y Google - BBC News Mundo https://www.bbc.com/mundo/noticias-46802529
+
+[4] ¿Cómo Amazon se Convirtió en el Rey del E-Commerce? https://www.nextu.com/blog/historia-de-amazon/
+
+[5] Las 8 enseñanzas del éxito de Amazon, que cumple 25 años • ENTER.CO https://www.enter.co/empresas/las-8-ensenanzas-del-exito-de-amazon-que-cumple-25-anos/
+
+By Perplexity at https://www.perplexity.ai/search/a8048b37-af24-43bf-91b7-78ebb990b263?s=m
+
+https://www.perplexity.ai/search/que-me-puedes-decir-de-in-q-te-h1BFPUJ4T2id67DShxPB1g#0
+
+
+Lo mismo me pasaba a mi, yo tenia productos en la tienda que no podian compartirse de forma eficiente en tiempo real con mi sistema de ventas online. Despues de meterme a estudiar una tercer carrera, ahora en computo decidi usar la tecnologia que en ese momento estaba saliendo que era la de las Bases de datos no relacionales, la bases de datos que hicieron posible a Amazon, Facebook, y a Google. Ya habia planeado mi incursion en la creacion de mi primer POS con un sistema que actualizara en tiempo real, mis invetarios y que me avisase que un producto que tenia en stock se habia vendido en linea, y debia despacharlo para ser enviado por paqueteria. Debia instalar un Servidor conseguir una IP fija y empezara crear mi sistema desde cero. La amortizacion del sistema se pagaria con los sobrecostos que ya pagaba como tienda online. Todo parecia ideal para poder crear mi sueño realidad. Hasta que tuve que pelear por mi Dominio. Cuando habia empezado mi camino no me di cuenta pero habia cometido un error que solo cometen los principiantes. Habia comprado todo mi sistema con dominio incluido a una empresa de paginas de internet que se dedicaba a vender la solucion completa. Y casualmente yo era el cliente que les generaba mas ventas, ya que ellos me mostraban como caso de exito de su sistema. Al revisar un poco mas mi dominio no estaba a mi nombre estaba al nombre de un Holding internacional con oficinas en Antgua. Algo que no pintaba muy bien ya que justo ese tipo de empresas estan pensadas para este tipo de problemas legales. Demandar no era una opcion, emprender una batalla legal en un territorio offshore a una empresa fantasma. Ellos habian planeado todo desde el principio tarde o temprano alguien con mi facturacion tendria que pensar en dejar el barco. Al revisar el precio de reventa de mi dominio de subasta, mi dominio valia 2 millones de dlls, ellos estaban en la mejor disposicion para venderme mi dominio por el cual habia trabajado por 2.5 millones. 
+
+Al no tener espacio para seguir  peleando sali a YouTube y redireccione a mis clientes por medio de mi marca personal ya no de una marca o un dominio, eso me libero y logre recuperar mis ingresos. Hoy en dia  el dominio sigue siendo parte de los activos de esta empresa, y sigue siendo parte de la estrategia de marketing de este holdig. 
+
+Hay miles de historias como estas que comento aqui. Todo el tiempo lidio con marcas, influencers y negocios que tienen una historia por la cual no quieren o no pueden trabajar con empresas como Amazon, Mercado libre, Youtube, o TikTok. y cientos mas.  Para todos ellos nosotros somos una opcion. Generar una presencia online libre y que ayude a los negocios y los influencers a trabajar sin los problemas. Y generar un ingreso estable y digno.
+
+Si son marcas, negocios y o influencers, en Link4deal tienen la opcion  si asi lo desean de tener una infraestrucura que se suma a las ya existentes siendo el vortice exacto entre E-commerce, blockchain y sistema de afiliados, el ecosistema de link4deal es un ecosistema independiente y se suma a todas y cada una de los propios sistemas de monetizacion que ya tienen las plataformas. Si tu ya monetizas con tus redes y sistemas actuales nuestro sistema solo se agrega al sistema que ya usas y te genera mas ingreso. 
+
+Por el otro lado la tiendas y marcas puedan crear su propio sistema a partir de sus redes sociales, teniendo una infraestructura para saber cuando atribuir la venta a un creador de contenido o las redes sociales propias, y medir el impacto de sus convenio con los creadores de conteido que les ayudan en a hacer la venta. en esencia es "Monetizar a base de resultados."
+
+Los influencers pueden de inicio pretender querer trabajar con una marca de forma directa, pero con el paso del tiempo veran que cada vez que hacen una campaña por medio de Link4deal,  pueden ganar mucho mas dinero, Todo esto si el nicho de mercado esta bien construido. Es por ello que si vas a dedicarte a crear contenido seria bueno que empezaras a pensar en un nicho bien definido desde el principio. El numero de nichos es infinito, porque puedes tener tu propia categoria, o crear una nueva con una nueva aproximacion, pero desde una perspectiva nueva. La serie de preguntas clave son?
+
+    -Si la gente que me esta prestando atencion comprara algo, que seria? 
+
+    -Que podria ayudar a tomar la descision? 
+
+    -Soy la persona indicada para hablar de ello? 
+
+    -En quien me tengo que convertir para poder transmitir lo que se necesita con respecto a este tema?
+
+Deten un poco la lectura, toma una hoja de papel blanco y enfrenate a respoder estas preguntas, talvez tardes 5 minutos o dos semanas, pero haz ese ejercicio conciente de enfrentarte a esas preguntas honestamente. una vez que hayas respondido de forma honesta y sin trampas, tendras mas facil tu camino a generar milones por medio de tus redes sociales. 
+
+    La cantidad de lugares dentro de la mente de tu publico es finito, se resume a dos lugares, o maximo 3 espacios,pero despues de ello, la cantidad de variaciones es infinita, asi que el primer paso que debes entender para trabajar y ser un buen creador de contenido es definir a quien le estas hablando! 
+
+Cuando empieces este camino de ser creador de contenido debes empezar con una idea clara de quien sera tu posible cliente, asi empezaras con el pie derecho a crear contenido cada vez mejor posicionado para hacer una venta offline. 
+
+En el 2024 hay cerca de 51 millones de canales de youtube y 1.4 perfiles de Tiktok,  y todos los dias miles de cuentas de video se crean, pero solo unas cuantas empiezan con el pie derecho, es por ello que monetizar un canal  mas alla de los sistemas de cada plataforma se vuelve complicado. Siendo la monetización un sistema de pool por el cual se asigna una parte a cada creador basado en el tiempo que los espectadores vieron el contenido, esto lo determina de forma discrecional cada plataforma siendo un porcentaje del total de todas las ventas de cada año. 
+
+En esencia esto siginifica que cada plataforma decide cuanto del pastel te toca por tu contenido. Y si tu contenido es posible monetizarlo, ya que debe alinearse a los valores de las empresas que se anuncian en la plataforma de contenido que elegiste.  Es por ello que si solo estas buscando ser pagado por las plataformas y la creacion de contenido, te estas perdiendo una gran parte de lo que las redes te pueden ofrecer para monetizar. Estas perdiendo millones de dolares creando embudos de ventas y procesos de trabajo fuera de linea que bajan los leads a sistemas que los convierten en dinero, en esta intermediacion se encuentra Link4deal, como un sistema que te ayuda a generar ventas, leads o procesos posteriores al impacto que tienes como creador de  contenido digital. 
+
+De eso trata este libro de como trabajar con un sistema que te ayuda a agregar mas ingresos si eres un creador de contenido que ya tiene una idea  de trabajo bien definidad...!
+
+Recapitulando 
+
+1o empieza creando contenido con una idea de negocio desde el principio
+
+2o Debes crear una estructura al rededor de ese nicho de mercado.
+
+
+Que es un activo Digital? 
+
+Esto es historia antigua... Obviamente para los estándares de TikTok, Google, Facebook... jajaja 
+
+El sistema por el cual la civilizacion occidental funciona es el sistema de propiedad privada, mas alla del supuesto capitalismo y/o socialismo, durante miles de años el unico derecho por el cual los gentiles pelearon, es el ser dueño del lugar donde se moria, de ahi nacieron los bienes raices, en ingles "Royal State" que era la parcela donde se muere, y porque este lugar era importante? bueno porque desde la cosmogonia occidental el lugar donde morir determinaba si irias al cielo. Ese derecho solo le pertenencia a los reyes y a los miembros de la iglesia. Todos los demas tuvimos que pelear por el derecho a tener donde morir. 
+
+Morir con una tumba hace que tu identidad en vida sea respetada en el más allá! Que hace esto? Un registro en la base de datos de la memoria colectiva. De ahi que la primera clase social fue la burguesia , ya que tenia un lugar donde morir. 
+
+Por qué la burguesia? bueno porque la burguesia habia logrado materializar el poder economico en el poder politico de la mano de los reyes y asi se obtuvo el derecho a poder comprar un pedazo de tierra donde morir, los primeros titulos de propiedad en la edad moderna eran para este tipo de propiedad. En esencia obtener la propiedad de un terreno era llegar a un consenso con la sociedad y ellos la sociedad por medio de los gobernante determinaba que ese pedazo era tuyo. 
+
+Toda la lucha de clases de la teoría marxista nace de la extraña dignidad que da el saber que si se tiene un lugar donde morir, tendremos asi un lugar asegurado en el cielo. Este privilegio viene de hacer algo privado en este caso hacer un pedazo de suelo, una parcela, o una casa. Esta identidad crea el sentido de pertenencia mas alla de la muerte a algo, un sentimiento intrínseco de los hominidos. 
+
+Parte privada osea que no pertenece a todos, solo a uno, eso le hace tener un privilegio sobre lo que se es de uno. En este caso el consenso es importante, esa palabra consenso. El reto "a posteriori" del estado es hacer posible que la lucha de clases sea justa y tenga reglas bien definidas de rotación social, no porque eso este bien o mal, ya que eso es irrelevante, sino porque mantiene el sistema funcionando. Orden sobre Caos. Todas las revoluciones de la historia se basan en quitar a una elite y poner a otra, este eterno bucle genera que el sistema de valores de la civilizacion cree un sistema mejor adaptado al medio.  
+
+Uno de los mejores ejemplos del uso del concepto consenso es cuando una comunidad de nativos de las islas polinesias usaban una roca para asignar valor sobre un bien. Un ejemplo muy famoso eran los habitantes de la Isla de Pascua (Rapa Nui).  Los monolitos que esta comunidad creaba y fomentaba eran usados para generar status y propiedad. 
+
+El derecho humano a la propiedad fue fundado por los romanos, dando fe publica a la pertenencia de un bien o activo.  Este procedimiento creo la explosion de riqueza del sistema Romano. Este sistema era muy similar al sistema de testigos que tenian los Judios y que usaban para intercambiar tierras, y un ejemplo de ellos esta en el antiguo testamento en Genesis 23. Despues también los anglosajones copiaron el modelo. 
+
+El problema de los generales Bizantinos
+
+Yo soy dueño de este terreno! .-
+
+si y quien dice eso?.-
+
+Aqui estan enterrados mis ancestros!.-
+
+Siempre existio este problema despues de que ya murio la gente que presencio el acontecimiento como podemos saber que lo que se cuenta no ha sido modificado? inclusive si los documentos pueden ser susceptibles de ser modificados? Incluso si las tumbas son vandalizadas?
+
+Durante todo este tiempo un invento moderno que el renacimiento trajo al mundo fueron los registros contables, el rayado diario y el sistema de partida doble, que se atribuye a Fray Luca Pacioli en Italia. Esto genero otra gran explosión de riqueza en Europa. Sin los registros contables eficientes no habría habido banca , usura y emprendimiento. Despues de ello nacerá la empresa moderna.
+
+Qué son los registros si no un antecesor de las bases de datos modernas? El mundo veria nacer otro invento aun mas poderoso e importante para esta historia. 
+
+El papel de los bancos modernos. 
+
+Los bancos ofrecen confianza, esta confianza se basa en las bases de datos y sus registros y los certificados portatiles o billetes. Pero su gran debilidad es que la información esta centralizada. Solo una institución, solo un sistema de BD.
+
+SIn embargo los bancos han tenido un gran papel dentro de la sociedad al servir como garantes de intermediacion entre dos particulares que no se conocen. 
+
+Este modelo es perfecto siempre y cuando no sea corrompido por el politico en turno, en este caso el primer politico en turno fue Carlos V que se dio cuenta que el deposito de los bancos no siempre necesitaba estar disponible. Es asi como el sistema entre bancos y gobierno ha sido simbiotico, parasitario y codependiente.  No hace falta mucho para poder controlar todo el sistema, y con eso todo un pais, o varios paises. 
+
+"Para controlar un sistema se necesita controlar el nodo central.""
+
+o como lo Dijera Amshel Rotchild, 
+
+“GIVE me control of a nation’s money supply, and I care not who makes its laws.”
+
+Las bases de datos que pertenecen a un solo nodo y  pueden ser modificadas,  alteran toda la historia? Los registros son en esencia la memoria y la memoria se convierte en la realidad. No importa mucho lo que haya pasado o no, si no lo que recordamos. 
+
+O como decia Goebbels 
+
+"Una mentira mil veces repetida se convierte en verdad"
+
+Una vez explicado todo lo anterior, podemos empezar a darnos cuenta hacia donde va la sucesión de hechos.
+
+La confianza lo es todo! Cómo podemos confiar en sistemas obsoletos que nos han defraudado una y otra vez? Los bancos quiebran, los gobiernos ceden ante la corrupción, nos podemos confiar en la historia mas cercana a nosotros. Que nos queda? 
+
+Solo las Blockchain y los protocolos, son  sistemas libres de confianza, donde no es necesario ya confiar, sistemas que son imposibles de corromper. Sin embargo estos sistemas necesitan una nueva forma de ver la economía. Y ese es el reto de las nuevas generaciones... Que significa confianza? Que significa valor? Que significa trabajo? Que significa dinero?
+
+Hoy los Blockchain que sustentan la confianza en las crypto monedas de de primera generación, como podrian ser Bitcoin o Ethereum, han sido secuestrados por los ETF.
+
+Los contratos a futuro envuelven o derivan su valor a partir de un Bitcoin sin poseerlo. La comercialización de los ETF crea sistemas paralelos en distintos entorno de Blockchain o de mercado de derivados, esto es lo que hace que la promesa por la cual la escasez del Bitcoin se vea comprometida a largo plazo, porque alguien puede crear un smart contract de un Bitcoin sin poseerlo y de ahi manipular la oferta inicial del Bitcoin subyacente.
+
+Porque los blockchain si, y los NFT's no. aun?
+
+Todos aquellos en el mundo crypto han visto crear miles de proyectos de Blockchain, Cryptomonedas, NFTs y proyectos como la web 3.0 
+
+Nadie es ajeno al mundo de la volatilidad del Bitcoin, sin embargo cuando alguien me llega a preguntar que si puede confiar en el Bitcoin siempre le digo la misma analogia. El calor de un cuerpo esta determinado por la cantidad de movimiento que existe en sus moléculas. Este fenómeno se mide por un sistema que creamos a partir del punto de ebullición del agua y la congelación de la misma luego esto lo dividimos entre 100. Todas las monedas del mundo son asi mediciones dentro de un sistema que convenimos los seres humanos. Por ejemplo el dólar mide a la economía de EEUU, el peso mide la economía de México. Indirectamente cada moneda es una acción de una empresa llamada país, miden un todo.
+
+Buenos pues el Bitcoin es un sistema que tiene como unidades 21 millones de muescas al igual que el el tally stick de los ingleses. En el caso de la empresa llamada Inglaterra los bancos centrales estan dividiendo esta unidad constantemente hasta hacer que cada unidad valga menos. Sigue siendo la misma cantidad de energia la que es necesaria para llevar el agua del punto de congelación al punto de ebullición, solo que ahora hay mas dolares en medio. No importa que el sistema se haya corrompido podemos generar mas billetes para salvar asi a nuestros complices y amigos.
+
+El bloque génesis de Bitcoin lo dice textualmente.
+
+"The Times 03/Jan/2009 Chancellor on berk of second bailout for banks"
+
+Las monedas del mundo se diluyen porque cada vez hay mas unidades en medio. Asi los gobiernos meten su mano en tu bolsillo por la noche para quitarte el valor de tu trabajo. 
+
+En este mundo digital que cada vez es mas compejo como podemos definir trabajo? Las próximas generaciones tendrán cada vez mas problemas para hacer respetar su trabajo. Frente a la atomización y a la división por la que apuestan los diversos gobiernos del mundo, una comunidad solida que genere sus propios activos al margen de los gobiernos es posible. 
+
+Como una primera generacion de creadores de contenido, los creadores se estan empezando a encontrar problemas de censura, de propiedad intelectual, de suplantacion de identidad, avatares digitales que llevan su rostro y su voz. 
+
+Veamos casos practicos.
+
+Un amigo que es líder en la industria del doblaje ha llevado durante décadas un buen estilo de vida gracias a su voz, es reconocido y enseña profesionalmente la carrera de locucion y actor de doblaje. Sin embargo con la creación de sistemas de voz artificial cientos de personas han clonado su voz para usarla como parte de sus campañas y anuncios. Me pregunta, que puedo hacer? Como puedo proteger mi voz? Que puede hacer mi gremio contra este cambio? 
+
+Recientemente Bad Bunny, un artista mundialmente conocido ha tenido un caso similar, un usuario de sistemas de lenguaje profundo ingreso un dataset de canciones a una red neuronal y creando un sistema de aprendizaje profundo creo una canción que suena mejor que lo que el artista hace actualmente con sus nuevas entregas. Con la voz de Justin Bieber y Daddy Yankee y una letra super "Catchy" el tema creo millones de descargas y fue top en los Charts del mundo. Mientras Bad Bunny se quejaba y le pedia a sus fans por medio de WhatsApp que no descargarán la canción. Amenazo con demandar y crear acciones legales, pero que podía hacer? Que podrían hacer los abogados? Que podia hacer la ley?  habia precedentes? Los sistemas legales estan brutalmente obsoletos con respecto a la tecnología. Ya lo decia Alvin y Heidy Toffler en su libro la revolución de la riqueza mientras en la autopista de la innovación el dinero va a 100 mph , la legislación va a 2 mph.
+
+Stephen Thaler es un científico de inteligencia artificial que aduce que su sistema DABUS (Device for the Autonomous Bootstrapping of Unified Sentience). Ah creado una obra original, lleva años peleando a favor de su creación. Los tribunales han fallado en varias ocasiones en contra, y es que el argumento es sencillo. Para obtener los derechos de autor hace falta ser humano. Hasta cuándo podremos definir esta linea? En breve tendremos todo lo que tenemos en nuestro teléfono, directamente conectado a nuestro cerebro. Cuando pidamos derechos de autor para el humano bio tecnológicamente modificado sera igual de sencillo fijar la linea entre humanos y maquinas? Mi cerebro se conecta a una API, y por medio de ella obtiene los datos en tiempo real de millones de transacciones en cientos de sistemas. El sistema tiene un subsistema de inteligencia artificial que filtra y ordena toda la información para hacerla digerible para mi. Donde empieza mi autoría? Donde empiezo yo?
+
+Los sistemas de inteligencia artificial no obtienen ni obtendran los beneficios ni las limitaciones de los marcos legales. Es ingenuo pensar que un contrato en el mundo fisico puede regular algo en el mundo virtual. Por ejemplo prohibir algo genera que sea mas económicamente rentable. Y si no pregunte a los carteles del mundo su negocio se basa en la escasez por prohibición. 
+
+La humanidad genero a lo largo de milenios una tecnología para subsanar problemas entre particulares y empresas. Esta tecnología ha funcionado durante cientos de años desde el codigo de Hammurabi hasta los codigos y leyes actuales. Pero necesitamos urgentemente un sistema de "contratos inteligentes" para poder ayudar a los próximos sistemas a definir su estatus legal frente a la sociedad, pero mas alla de su status legal un sistema de rastreo con el cual podamos seguir y detener sus acciones. Este es el sustento lógico para crear un Blockchain con identidad de seres humanos. Y ya hay empresas trabajando en ello.
+
+Los restos digitales de cada ser humano deben ser tratados como algo digno de tener respeto. La ingente cantidad de datos que creamos a lo largo de nuestra vida son datasets que alimentan los grandes sistemas de lenguaje para poder presentar mejores respuestas en las soluciones de inteligencia artificial. Pero si los datasets de una persona que murio hace mil años son usados para un fin no correcto? En varios siglos podremos generar contenido con avatares digitales del siglo XXI? 
+
+Con el advenimiento de la inteligencia artificial, los nuevos sistemas crean influencers digitales los cuales en breve seran indistingibles de personas humanas. Este es el nucleo del proyecto de Sam Altman, "WorldCoin".*  
+
+Un amigo me invita a darme de alta en el protocolo, de WorldCoin, hemos discutido ampliamente el tema, y conociendo a Sam Altman se que el sistema es confiable dentro de los límites de la tecnología actual. Y aunque me da confianza el protocolo, no comparto los valores del sistema. Los futuros cryptoactivos seran definidos por la comunidad que les da respaldo al igual que una moneda de un país. No soy ciudadano de un país por vivir en la jurisdicción geográfica del país, sino por usar la moneda del país en cuestión.  Esto lo han entendido muy bien los BRIC'S. Y luchan por separarse del dólar al igual que en algún momento los imperios lucharon por separarse de la moneda del imperio español. La primera moneda global fue el famosísimo "Real de a 8"
+
+Hoy los nuevos rieles sobre las que se harán las monedas del futuro son las Blockchain, cada Blockchain tendrá éxito de acuerdo al tipo de tecnología que subyace a la moneda. 
+
+Bitcoin genera un bloque y un Bitcoin aproximadamente cada 10 minutos, en ese bloque van millones de transacciones. Se diseño para ser confiable no para ser rápida, ahora tenemos mas generaciones de Blockchain con distintos protocolos de seguridad no solo POW  (proof of work . Los agentes de IA van a ocupar Blockchain para millones de TPS (Transacciones por segundo).
+
+Regresando al registro de la propiedad, qué registro debo usar? El registro en papel se perderá en menos 1000 años, cuando estemos en nuestras colonias en Júpiter o mas allá del sistema solar, el internet por medio de entrelazamiento cuántico sera en tiempo real en toda la galaxia, la encriptación cuántica hara imposible que los registros se puedan modificar, la privacidad y la inmutabilidad serán parte de toda la cadena. Nuestra minería espacial traerá asteroides todos los dias a nuestras colonias en marte y la luna. El precio del oro al ser tan abundante se desplomará a niveles que hoy tiene el aluminio. La proporción de oro en el universo es de  0.00000001 de oro con  respecto a 0.005 por cada átomo de aluminio. El platino, plata y cobre tienen proporciónes similares. Asi que la rareza del oro solo es una moda de la civilización en términos de la tierra, El verdadero valor de los metales sera determinado por su uso en nano-electrónica. El uso que se le da como parte de un todo. El trabajo humano al ser hecho por maquinas de desplomará,
+
+ Entonces que valor tiene algo?
+
+Y justamente esa es la pregunta mas importante de la raza humana, en cuanto a lo que se puede nombrar humano.  
+
+Que le da valor a algo? Si tenemos una base de datos con miles de patentes galácticas, que impide que un asistente inteligente pueda acceder a planos específicos de un sistema tan improbable en el universo que es estadísticamente imposible rehacer la investigación? Una investigación que esta 8 o 9 veces alejada de la desviación estándar mas favorable? Como damos valor y acceso a ese conocimiento? Y de quien es ese conocimiento? Por eso es que apostar por protocolos que definen como interactuan las partes dentro de un todo, preguntarnos quien vota,  para que  esa tecnología sea disponible? Que intercambio de valor es viable? En el futuro los sistemas trataran de forma directa con este dilema y tendran un sistema de valores para hacer algo o no. Sin la intervención de los humanos. Por eso son importantes los protocolos, osea un Blockchain con protocolos bien definidos.
+
+Recordando las palabras de Jack Dorsey fundador de Twitter. 
+
+@jack
+
+Aug 25, 2022
+
+A protocol. Def can’t be owned by a state, or company. Becomes clearer every day.
+
+Esta es la propuesta de DameCodigo, Imaginemos un protocolo que da sentido a la ciudadanía dentro de un sistema, en un principio estos sistemas tienen como ejemplo la geografía, pero conforme vayamos saliendo de la tierra, estos sistemas se volverán mas etéreos. Que significa para un ciudadano del futuro que vive en un planeta lejano, ser parte de "Nuevo pacifico" o "Nueva América "
+
+Como habia dicho antes la comunidad determina el valor dentro de una Blockchain, quien vota y quien es votado esta determinado por aquellas personas que son directamente afectadas por aquellos que toman la decisión dentro del sistema.  La mayor parte de los sistemas son parte de sistemas mayores, los sistemas actuales de gobierno vienen de la idea de representación popular. Yo representó una cantidad finita de individuos dentro de la sociedad. Ocupo sus recursos por eso debo rendición de cuentas y transparencia de la toma de desiciones. Cada desición es económica.
+
+En términos de estadística la teoría de juegos nos dice que sin castigo los gobiernos siempre tienen tendencia a la corrupción. Asi es que los gobiernos  del mundo tienen la tendencia a vivir por encima sus ingresos. 21 siglos de historia nos recuerdan porque permitirle a los gobiernos del mundo emitir moneda en contubernio con los bancos crea corrupción perfectamente legal.
+
+Por eso las primeras iteraciones de Blockchain son tan importantes, que salio bien? Que salio mal con el Bitcoin? La cadena es inmutable? Por cuanto tiempo? Que podemos hacer para mejorarla? Es suficiente la encriptación? Con procesadores cuanticos podemos crear sistemas que hagan mas rapido los cálculos para poderle ganar a la cadena original? El choque de resultados da una cantidad finita de soluciones? Podemos usar encriptación cuántica? La capacidad de inmutabilidad de los qbits puede hacer imposible de romper el Blockchain de segunda y tercera generación? Satoshi Nakamoto anticipo muchas respuestas pero hacen falta mas! 
+
+En el momento en que se escriben estas lineas HBO saca un documental argumentando que Peter Todd de que el es el verdadero Satoshi Nakamoto. Las cámaras lo enfocan para hacerle la pregunta y el rie nervioso,  Y dice una gran frase.
+
+"Este es otro gran ejemplo de como los periodistas pierden el punto fundamental, de forma que es graciosa.
+
+Cual es el punto fundamental? Pregunta el periodista 
+
+El punto es que bitcoin es una divisa global! Y mantienen a la  gente distraída con estupideces. 
+
+Los NFT's aunque son una consecuencia logica de la tecnología, no tienen la esencia de significado que tiene el Bitcoin. Una intencion bien definida de motivos de egoísta racional que pretende resolver los problemas del mundo a partir de tecnología.
+
+Ocupamos crear una solida Blockchain con registro de los creadores de contenido del mundo, cuando se sube un video de un creador humano esto genera mas vistas, y por consecuencia mas valor,  es indiferente el contenido, si hay gente dando su atención al contenido, al igual que las acciones de una empresa estas suben de precio, pero cuando hay mas productos exitosos de la empresa esta sube de valor. El 100% de las acciones en un inicio pueden ser del creador de contenido y este puede arrendar, vender o subcontratar los derechos de su imagen a sistemas de inteligencia artificial para crear contenido bajo su marca personal.
+
+En un principio el valor de cada accion dentro del "Mercado de valores para influencers" sera de cero con cada nuevo video el valor crece, puedes comprar y vender 
+
+Dentro de los Blockchain del futuro los registros de propiedad del futuro haran que cada quien tenga la seguridad y la confianza de que sus activos digitales sean protegidos por toda la galaxia. El nivel de la discusión es fundamental para el futuro de la civilización humana en el espacio. 
+
+Recapitulemos 
+
+1 Hacer contenido genera valor, asume que en este nuevo ecosistema de negocios, la unidad económica de producción es el generador de contenido, asume la responsabilidad de hacer valioso tu activo, desde el dia 1
+
+2 Todos aquellos que no hagan contenido tendran el derecho a ser olvidados, los influencers, políticos y demas identidades no tendran esa prerrogativa. 
+
+Vuelve a la hoja que usamos en el capítulo 1 y ahora trata de definir el valor que ofreces al mundo por medio de tu contenido?
+
+Redes sociales o Comunidad?
+
+Cuando era niño mi papa nos daba por igual domingo a mi y a mis hermanas, una de ellas habia planeado toda la semana que iba a hacer con su mesada, mi papá le decia "a ti no te gusta el dinero" a lo que ella decia que de hecho le encantaba.  
+
+El punto de mi papá es que hoy en dia hablamos de capitalismo y el capitalismo tiene mala prensa. Sin embargo nuestro mundo moderno al igual que mi hermana dista mucho de ser capitalista. El capitalismo como lo dice su nombre se basa en el capital y uno de los más grandes pilares de ello es el ahorro. Hoy en dia nuestros sistemas económicos se basan en el gasto, en el consumo nunca en el capital.
+
+Los paises como Japón o los del norte de Europa viven con un gran ahorro pero sus economías estan deprimidas por la falta de gasto, la falta de nuevas generaciones de consumidores crea que sus economías sean exitosas pero no tengan expansión. 
+
+Esta fue la tesis de economistas que basan sus postularos en el gasto del gobierno. Y por los cuales hoy estamos en el gran reseteo que proponen los gobiernos del mundo, ya que la deuda es imposible de pagar.
+
+Asi pasamos por sociedades críticas a sociedades teledirigidas como decia Giovanni Santori. El crecimiento de una generación basada en contenido corto TikTok tendrá como reto una masa sin forma, ni educación mínima para poder trabajar con ellos.
+
+Durante los ultimos 10 años se ha escuchado el mantra de "El contenido es el rey ", a menudo los seres humanos no reparamos a pensar mucho en las pequeñas frases que se covierten en parte de nuestra realidad y que moldean nuestra vida. les llamamos refranes, o tambien tienen otros nombres,  y asumimos que son verdad y sobre esa verdad basamos nuestras realidades dia a dia. Se convierten en sabiduria y estupidez por igual compartimos con todos aquellos con quien decimos la misma frase. En terminos de negocio te alejas lo mas posible de la sabiduria popular, la sabiduria popular tambien es la estupidez colectiva. 
+
+Pero detengamos un poco más para analizar si, el contenido es el rey? la verdad es que los psicologos de conducta han generado una cantidad muy superior de informacion de como funcionamos en sociedad, habitualmente todos caemos en un conjunto de conductas en lo individual y con respecto a nuestra forma de reaccionar con el mundo. Este sistema de valores es ampliamente conocido entre los psicólogos,  como es método VALS , "values, attitudes, and lifestyle".  Y aunque hay otros sistemas usamos este por su valoración en términos de lo que consumen las personas que al final es lo que podemos venderles a traves de nuetro contenido.
+
+ Ya sea que hagas contenido o hagas productos físicos debes esperar que los consumidores de acuerdo a sus decisiones entren en alguno de los estereotipos abajo mencionados.
+
+Innovadores: Personas con altos recursos y apertura a nuevas ideas.
+
+Pensadores: Profesionales bien informados y analíticos.
+
+Creyentes: Conservadores y tradicionales, con valores firmes.
+
+Triunfadores: Exitosos y comprometidos con su trabajo y familia.
+
+Vividores de experiencias: Buscan nuevas experiencias y son espontáneos.
+
+Esforzados: Consumidores con recursos limitados, motivados por el logro.
+
+Realizados: Prefieren actividades al aire libre y valoran la propiedad.
+
+Supervivientes: Conservadores y cautelosos, con bajos recursos.
+
+Los test actualmente buscan decir que porcentaje de cada uno de estos atributos tenemos en cada ser humano. Cuanto de cada uno de todos estos genera nuestra personalidad en términos de estilo de vida, y por consiguiente en términos de cuota de mercado. Cuando le hablas a un público lo que realmente estas haciendo es delimitar un conjunto de personas que entran dentro de varios tipos de los estilos de vida mencionados. Los defines en terminos de: 
+
+Sujeto, objeto, lugar, tiempo y forma. 
+
+Hay otro sistema que ayuda a delimitar las cuotas de mercado este es el sistema de valores de Schwartz en este sistema lo que se estudia es la propensión a un sistema de valores, algunos se contraponen y otros se complementan. 
+
+Los 10 tipos de valores según el modelo de Schwartz son: 
+
+1. Autodirección: Creatividad, libertad, independencia y elegir los propios objetivos. Busca la autonomía del pensamiento y la acción.
+
+2. Estimulación: Búsqueda de emoción, novedad y desafíos en la vida. Se relaciona con la necesidad de cambio y actividad.
+
+3. Hedonismo: Placer y gratificación sensorial. Orientado al disfrute de la vida.
+
+4. Logro: Éxito personal mediante la demostración de competencia en los estándares sociales.
+
+5. Poder: Dominio social o control sobre personas y recursos, con un enfoque en el estatus social y el prestigio.
+
+6. Seguridad: Seguridad y estabilidad de la sociedad, las relaciones y uno mismo. Incluye seguridad personal y nacional.
+
+7. Conformidad: Restricción de acciones y comportamientos que puedan dañar a otros o violar normas sociales.
+
+8. Tradición: Respeto, compromiso y aceptación de las costumbres e ideas tradicionales o culturales.
+
+9. Benevolencia: Preocupación por el bienestar de las personas cercanas y el entorno.
+
+10. Universalismo: Comprensión, aprecio y protección del bienestar de todas las personas y la naturaleza.
+
+Estos valores están organizados en un círculo, mostrando que algunos están en conflicto (por ejemplo, poder vs. universalismo), mientras que otros están alineados (por ejemplo, benevolencia y universalismo). El modelo ayuda a entender cómo los valores influyen en la toma de decisiones y el comportamiento humano.
+
+Esto nacio mientras inventamos el concepto publicidad moderna, cuando la publicidad nacio lo que buscaba era impactar la mayor cantidad de personas posibles, llegar a miles era relativamente barato y fácil. 
+
+El negocio era sencillo se invierte 1 y se recuperaba 1, en el peor de los casos , pero en ciertos sectores se recuperaba de 2  hasta 5 veces la inversión, a nadie le importaba que la publicidad fuera responsable, asi nacieron las campañas publicitarias de la mano de Edward Bernays sobrino de Sigmund Freud, igual se publicitara el bacón para el desayuno promedio estadounidense, o los cigarrillos, Las agencias compraban la opinión pública, creando la sensación de que las corporaciones se preocupaban por el bienestar general.
+
+Todo esto estaba en el contrato social y el manual de las prácticas socialmente aceptadas por las empresas estadounidenses.
+
+Hasta que el tabaco demostró que daba cáncer, que el tocino era perjudicial, que los petroleros usaban a las agencias de publicidad para pasar sus gasolinas con plomo, y que los estudios médicos a favor de algo eran financiados por fundaciones opacas como la de George Soros y la Rothschild. Todo el mundo despertó! Los publicistas eran los enemigos de la sociedad mentian en pos de vender. 
+
+La  publicidad es en si el motor de mentiras que usaban por igual los dictadores y los oligopolios para crear un sistema de creencias, con la ventana de Overton.El negocio no está mal el problema subyacente es el "accountability " o la responsabilidad directa por contaminar o por 
+
+Solo que con el paso del tiempo ya no era rentable ocupar para los negocios pequeños los grandes medios de comunicación, el sistema desarrollo el proceso de crear promociónes y de la mano de esto su mejor herramienta el cupón. 
+
+Llegar a mas personas crea un embudo de ventas que determina que solo el 1% de tu flujo llega a la compra, por esto son importantes las definiciones de como definimos nuestra identidad de acuerdo al consumo y la imagen que tenemos de nosotros mismos.
+
+Llegar a tu publico objetivo es filtrar, tamizar y delimitar grupos específicos.
+
+Pero esto no fue todo las empresas de tecnología crearon algo superior el seguimiento del proceso de compra, a esto se le llamo atribución. 
+
+Que es la atribución? 
+
+En los medios digitales modernos, el usuario entra por distintos canales a un mismo site oara comprar algo, asi que si estamos cobrando por publicidad online es importante saber a quien se asigna que el merito de haber logrado que el usuario llegase al sitio. 
+
+
+
+
+
+
+https://x.com/jack/status/1562861302242226178?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1562861302242226178%7Ctwgr%5E037e6182a4d3da00168ab948ad7b1d705b442f42%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2022%2F08%2F26%2Ftwitter-founder-jack-dorsey-says-his-biggest-regret-about-the-platform-is-it-became-a-comp
+
+*https://www.perplexity.ai/search/que-es-worldcoin-w34ngjxcS.OKAxwJK0.BYQ#0
+
+
+
+Cliente génesis
+
+El primer cliente determino los imputs del sistema, las variables inciales, el primer bloque contiene el manifiesto
