@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "rfdbb5e53",
+      "url": "https://x.com/ProfKlausSchwab/status/2096526897760883179",
+      "title": "The need for radical rethinking of organisational concepts",
+      "source": "web",
+      "note": "aciones",
+      "linkedChapters": [
+        "importados/Growth Partner.md"
+      ],
+      "createdAt": "2026-09-08T15:25:38.687Z"
+    },
+    {
+      "id": "r22674c4a",
+      "url": "https://www.nber.org/papers/w35336",
+      "title": "Automatation and represion",
+      "source": "web",
+      "note": "sustento a inversion de la piramide",
+      "linkedChapters": [
+        "importados/Growth Partner.md"
+      ],
+      "createdAt": "2026-09-08T15:21:17.944Z"
+    }
+  ]
+}
