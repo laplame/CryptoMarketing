@@ -92,25 +92,36 @@ la palabra era la ancla para la mente que siempre cambia, la asidera a algo liqu
 
 Uber definia un modelo de negocio y un sistema que era amigable pero disruptivo al mimos tiempo. Por eso Cuando yo digo que Link4deal es lo que fue el Kindle de  Amazon a Barnes & noble, mucha gente me pregunta que es Barnes & noble?
 
-Todos conocemos una promocion.Y tambien todos conocemos u flyer, nadie nos dijo que podiamos hacer de un flyer promocional algo inteligente?
-
-Este metaConcepto que implica hacer que una promocion sea inteligente redimible y que al mismo tiempo ayude a crear valor. es un concepto superior!
+Todos conocemos una promocion.Y tambien todos conocemos un flyer, nadie nos dijo que podiamos hacer de un flyer promocional algo inteligente? Este metaConcepto que implica hacer que una promocion sea inteligente redimible y que al mismo tiempo ayude a crear valor. es un concepto superior! CryptoMarketing
 
 Se han creado miles de empresas bajo este precepto de copia, pero sin respetar dicha ley, la ley de la categoria, hoy los nuevos marketeros le quieren llamar comunidad, categoria, pero en esencia es la misma ley. Y como lo decian en su momento sus creadores es inmutable.  
 
-Esta es la razón por la que aunque Amazon, quieran crear su propia plataforma de contenidos no puede obtener la cantidad de espacio disponible en la mente del consumidor, porque el cosumidor siempre asociara a amazon con ventas online. En ese sentido Amazon ya gano la partida del E-commerce. En el mismo sentido que TikTok ganó en su categoría, ya que es un lider y fallara al querer hacer un sistema de ventas en su plataforma. Obtendra una participacion pequeña aunque significativa de las ventas. Ambas plataformas deberan crear un nuevo monstruo, que no se asocie a su identidad actual, si quieren obtener espacio en la mente del consumidor final.
+Esta es la razón por la que aunque Amazon, quieran crear su propia plataforma de contenidos no puede obtener la cantidad de espacio disponible en la mente del consumidor, porque el cosumidor siempre asociara a amazon con ventas online. 
+
+En ese sentido Amazon ya gano la partida del E-commerce. En el mismo sentido que TikTok ganó en su categoría, ya que es un lider y fallara al querer hacer un sistema de ventas en su plataforma. Obtendra una participacion pequeña aunque significativa de las ventas. Ambas plataformas deberan crear un nuevo monstruo, que no se asocie a su identidad actual, si quieren obtener espacio en la mente del consumidor final.
 
 Todas las redes sociales tienen su propia forma de monetizar, pero, Link4deal nace justo a la mitad, creando una categoria nueva de trabajo, que toma por partes iguales, lo anterior, como Click Bank, Peixe Urbano y Groupon. E introduce tambien el E-commerce para que cada creador pueda trabajar independientemente de una tienda, si asi lo desea. 
 
+Explico el Contexto sobre el que nace DameCodigo/CryptoMarketing 
+
+Problemas de Afiliados:
+
 Tengo un amigo con el cual empece el camino del MKT Digital hace unos años hicimos embudos de ventas a partir de un sistema que funcionaba muy bien, el creo un sistema a partir de el tema de aniversario de parejas,  regalos de bodas y mesas de regalos. A el le iba muy bien hasta que un dia tuvo una controversia con Amazon porque alguien de una tienda asociada se quejo de su contenido y el sitema de Amazon lo revisó y  le quito el sistema de afiliados. Anexo imagen. Mi amigo tiene otros embudos pero ya no puede usar Amazon. 
 
-Problemas de marketplace, tengan cuidado con este sistema ya que siempre el marketplace con el cual trabajan utds, y sus clientes puede banear los a utds, ellos o a ambos. Depender de un solo servicio no solo es suicida, sino también estúpido.
+Problemas de marketplace:
 
-Mi ex-mujer despues de haber estudiado durante años la carrera de Economia en una prestigiosa universidad, y haber sido uno de los mejores promedios del pais, se encontro con un sistema de entrevistas que no daban con su la mejor oferta de trabajo para ella, y aunque llevaba años trabajando para distintas empresas no encontro un trabajo adecuado para sus carrera la cual amaba y habia terminado con mucho esfuerzo. Despues de un tiempo me pregunto que si podia ayudarle a hacer un ingreso extra, y le dije que si con gusto, montamos una tienda en Mercado libre Le fue muy bien durante un par de años, pensaba en comprarse un carro y empezo a pensar en dar el enganche para un departamento hasta que le llego una demanda por un juguete del cual no puedo decir el nombre porque la empresa en cuestion tiene los derechos del nombre nadie puede usarlo en internet si no es esa marca. Un juego de cartas basado en la memoria. Mercado libre decidio que no queria meterse en problemas y le dio la razon a la empresa en cuestion quitandole de la noche a la mañana su ingreso seguro a mi ex. Despues en este libro hablaremos del los derechos de propiedad , y porque las leyes son un sistema obsoleto que va en decadencia en todo el mundo.
+Tengan cuidado con este sistema ya que siempre el marketplace con el cual trabajan utds, y sus clientes puede banear los a utds, ellos o a ambos. Depender de un solo servicio no solo es suicida, sino también estúpido.
+
+Mi ex-mujer despues de haber estudiado durante años la carrera de Economia en una prestigiosa universidad, y haber sido uno de los mejores promedios del pais, se encontro con un sistema de entrevistas que no daban con su la mejor oferta de trabajo para ella, y aunque llevaba años trabajando para distintas empresas no encontro un trabajo adecuado para sus carrera la cual amaba y habia terminado con mucho esfuerzo. Despues de un tiempo me pregunto que si podia ayudarle a hacer un ingreso extra, y le dije que si con gusto, montamos una tienda en Mercado libre Le fue muy bien durante un par de años, pensaba en comprarse un carro y empezo a pensar en dar el enganche para un departamento hasta que le llego una demanda por un juguete del cual no puedo decir el nombre porque la empresa en cuestion tiene los derechos del nombre nadie puede usarlo en internet si no es esa marca. Un juego de cartas basado en la memoria. Mercado libre decidio que no queria meterse en problemas y le dio la razon a la empresa en cuestion quitandole de la noche a la mañana su ingreso seguro a mi ex. 
+Despues en este libro hablaremos del los derechos de propiedad , y porque las leyes son un sistema obsoleto que va en decadencia en todo el mundo.
 
 Otra vez, depender de un marketplace es algo que te puede ayudar hasta que ya no.
 
-Yo mismo tuve una pagina de internet que cree en el el 2007 la cual tenia miles de visitas y era la primera en su tipo, vendia papeleria al mayoreo para oificinas, y teniamos miles de clientes, sin embargo el problema operativo de ciertos negocios es la cantidad de productos y variantes que puede existir en un negocio como la papeleria, ferreteria, farmacias, bisuteria, y novedades.  Yo tenia un problema serio con la cantidad de productos que se podian subir a la plataforma con la cual trabajaba, pagaba sobrecostos sobre cada producto que subia a la pagina solo para poder seguir trabajando, todo esto gracias a la tecnologia que en aquel entonces tenia que usar que era php y bases de datos relacionales, el costo de operacion de ese sistema era altisimo y hacia inviable el poder tener beneficios, esa es una de las razones por las cules las primeras versiones de Facebook se hicieron en SQL y php, hasta que se dieron cuenta de que no se podia sostener el crecimiento de la red social sin cobrar. habia que hacer algo ya que  el costo de trabajo maquina era altisimo, cada cuenta nueva le costaba a facebook varios dolares. Facebook ya tenía Venture capital y el consentimiento de la  CIA, No es hasta que se cambian las Bases de datos  y se crea una nueva tecnologia de renderizado que el crecimiento explosivo de Facebook es posible. Amazon tenia un problema similar. 
+Problemas de Derechos de Tecnologia y BD:
+
+Yo mismo tuve una pagina de internet que cree en el el 2007 la cual tenia miles de visitas y era la primera en su tipo, vendia papeleria al mayoreo para oificinas, y teniamos miles de clientes, sin embargo el problema operativo de ciertos negocios es la cantidad de productos y variantes que puede existir en un negocio como la papeleria, ferreteria, farmacias, bisuteria, y novedades.  Yo tenia un problema serio con la cantidad de productos que se podian subir a la plataforma con la cual trabajaba, pagaba sobrecostos sobre cada producto que subia a la pagina solo para poder seguir trabajando, todo esto gracias a la tecnologia que en aquel entonces tenia que usar que era php y bases de datos relacionales, el costo de operacion de ese sistema era altisimo y hacia inviable el poder tener beneficios, esa es una de las razones por las cuales las primeras versiones de Facebook se hicieron en SQL y php, hasta que se dieron cuenta de que no se podia sostener el crecimiento de la red social sin cobrar. habia que hacer algo ya que  el costo de trabajo maquina era altisimo, cada cuenta nueva le costaba a facebook varios dolares. Facebook ya tenía Venture capital y el consentimiento de la  CIA, 
+
+No es hasta que se cambian las Bases de datos  y se crea una nueva tecnologia de renderizado (lo que despues conoceriamos como react), que el crecimiento explosivo de Facebook es posible. Amazon tenia un problema similar. 
 
 Otro problema para los negocios las tecnologías aun no tienen la madurez para explotar el crecimiento.
 
@@ -135,17 +146,31 @@ By Perplexity at https://www.perplexity.ai/search/a8048b37-af24-43bf-91b7-78ebb9
 https://www.perplexity.ai/search/que-me-puedes-decir-de-in-q-te-h1BFPUJ4T2id67DShxPB1g#0
 
 
-Lo mismo me pasaba a mi, yo tenia productos en la tienda que no podian compartirse de forma eficiente en tiempo real con mi sistema de ventas online. Despues de meterme a estudiar una tercer carrera, ahora en computo decidi usar la tecnologia que en ese momento estaba saliendo que era la de las Bases de datos no relacionales, la bases de datos que hicieron posible a Amazon, Facebook, y a Google. Ya habia planeado mi incursion en la creacion de mi primer POS con un sistema que actualizara en tiempo real, mis invetarios y que me avisase que un producto que tenia en stock se habia vendido en linea, y debia despacharlo para ser enviado por paqueteria. Debia instalar un Servidor conseguir una IP fija y empezara crear mi sistema desde cero. La amortizacion del sistema se pagaria con los sobrecostos que ya pagaba como tienda online. Todo parecia ideal para poder crear mi sueño realidad. Hasta que tuve que pelear por mi Dominio. Cuando habia empezado mi camino no me di cuenta pero habia cometido un error que solo cometen los principiantes. Habia comprado todo mi sistema con dominio incluido a una empresa de paginas de internet que se dedicaba a vender la solucion completa. Y casualmente yo era el cliente que les generaba mas ventas, ya que ellos me mostraban como caso de exito de su sistema. Al revisar un poco mas mi dominio no estaba a mi nombre estaba al nombre de un Holding internacional con oficinas en Antgua. Algo que no pintaba muy bien ya que justo ese tipo de empresas estan pensadas para este tipo de problemas legales. Demandar no era una opcion, emprender una batalla legal en un territorio offshore a una empresa fantasma. Ellos habian planeado todo desde el principio tarde o temprano alguien con mi facturacion tendria que pensar en dejar el barco. Al revisar el precio de reventa de mi dominio de subasta, mi dominio valia 2 millones de dlls, ellos estaban en la mejor disposicion para venderme mi dominio por el cual habia trabajado por 2.5 millones. 
+Lo mismo me pasaba a mi, yo tenia productos en la tienda que no podian compartirse de forma eficiente en tiempo real con mi sistema de ventas online. Despues de meterme a estudiar una tercer carrera, ahora en computo decidi usar la tecnologia que en ese momento estaba saliendo que era la de las Bases de datos no relacionales, la bases de datos que hicieron posible a Amazon, Facebook, y a Google. 
 
-Al no tener espacio para seguir  peleando sali a YouTube y redireccione a mis clientes por medio de mi marca personal ya no de una marca o un dominio, eso me libero y logre recuperar mis ingresos. Hoy en dia  el dominio sigue siendo parte de los activos de esta empresa, y sigue siendo parte de la estrategia de marketing de este holdig. 
+Problemas de Dominos:
+
+Ya habia planeado mi incursion en la creacion de mi primer POS con un sistema que actualizara en tiempo real, mis invetarios y que me avisase que un producto que tenia en stock se habia vendido en linea, y debia despacharlo para ser enviado por paqueteria. Debia instalar un Servidor conseguir una IP fija y empezara crear mi sistema desde cero. La amortizacion del sistema se pagaria con los sobrecostos que ya pagaba como tienda online. 
+
+Todo parecia ideal para poder crear mi sueño realidad. Hasta que tuve que pelear por mi Dominio. Cuando habia empezado mi camino no me di cuenta pero habia cometido un error que solo cometen los principiantes. Habia comprado todo mi sistema con dominio incluido a una empresa de paginas de internet que se dedicaba a vender la solucion completa. Y casualmente yo era el cliente que les generaba mas ventas, ya que ellos me mostraban como caso de exito de su sistema. Al revisar un poco mas mi dominio no estaba a mi nombre estaba al nombre de un Holding internacional con oficinas en Antigua. 
+Algo que no pintaba muy bien ya que justo ese tipo de empresas estan pensadas para este tipo de problemas legales. Demandar no era una opcion, emprender una batalla legal en un territorio offshore a una empresa fantasma. 
+Ellos habian planeado todo desde el principio tarde o temprano alguien con mi facturacion tendria que pensar en dejar el barco. Al revisar el precio de reventa de mi dominio de subasta, mi dominio valia 2 millones de dlls, ellos estaban en la mejor disposicion para venderme mi dominio por el cual habia trabajado por 2.5 millones. 
+
+Al no tener espacio para seguir  peleando sali a YouTube y redireccione a mis clientes por medio de mi marca personal ya no de una marca o un dominio, eso me libero y logre recuperar mis ingresos. Hoy en dia  el dominio sigue siendo parte de los activos de esta empresa, y sigue siendo parte de la estrategia de marketing de este holding. 
 
 Hay miles de historias como estas que comento aqui. Todo el tiempo lidio con marcas, influencers y negocios que tienen una historia por la cual no quieren o no pueden trabajar con empresas como Amazon, Mercado libre, Youtube, o TikTok. y cientos mas.  Para todos ellos nosotros somos una opcion. Generar una presencia online libre y que ayude a los negocios y los influencers a trabajar sin los problemas. Y generar un ingreso estable y digno.
 
 Si son marcas, negocios y o influencers, en Link4deal tienen la opcion  si asi lo desean de tener una infraestrucura que se suma a las ya existentes siendo el vortice exacto entre E-commerce, blockchain y sistema de afiliados, el ecosistema de link4deal es un ecosistema independiente y se suma a todas y cada una de los propios sistemas de monetizacion que ya tienen las plataformas. Si tu ya monetizas con tus redes y sistemas actuales nuestro sistema solo se agrega al sistema que ya usas y te genera mas ingreso. 
 
+En la ultima etapa creamos un sistema de posteo por medio de Relays de Nostr, para las promociones y para que el protocolo del la www no pueda intervenir con la creacion de valor, este nuevo protocolo impide que se pueda bloquear una tienda en Internet, y es parte de la Web3.0, y es una consecuencia directa de ecosistema del mundo Crypto. 
+
+Esta ultima etapa nos ayudara a llevar a 5 billones de personas a la Web3.0 en los proximos 5 años, que es lo que hara que el sistema ayude a democratiar la creacion de valor en todo el mundo sin censura. Nuevas formas de Voto, de contratos y leyes para la IA se construiran sobre esta capa. 
+
 Por el otro lado la tiendas y marcas puedan crear su propio sistema a partir de sus redes sociales, teniendo una infraestructura para saber cuando atribuir la venta a un creador de contenido o las redes sociales propias, y medir el impacto de sus convenio con los creadores de conteido que les ayudan en a hacer la venta. en esencia es "Monetizar a base de resultados."
 
-Los influencers pueden de inicio pretender querer trabajar con una marca de forma directa, pero con el paso del tiempo veran que cada vez que hacen una campaña por medio de Link4deal,  pueden ganar mucho mas dinero, Todo esto si el nicho de mercado esta bien construido. Es por ello que si vas a dedicarte a crear contenido seria bueno que empezaras a pensar en un nicho bien definido desde el principio. El numero de nichos es infinito, porque puedes tener tu propia categoria, o crear una nueva con una nueva aproximacion, pero desde una perspectiva nueva. La serie de preguntas clave son?
+Los influencers pueden de inicio pretender querer trabajar con una marca de forma directa, pero con el paso del tiempo veran que cada vez que hacen una campaña por medio de Link4deal,  pueden ganar mucho mas dinero. y esta reputacion del influencer es portatil al igual que la del negocio, ya que queda en una blockchain. Esto nos ayudarà a poder ofrecer creditos al desarrollo por medio de auditoria y reputacion basada en "CryptoMarketing".
+
+Todo esto si el nicho de mercado esta bien construido. Es por ello que si vas a dedicarte a crear contenido seria bueno que empezaras a pensar en un nicho bien definido desde el principio. El numero de nichos es infinito, porque puedes tener tu propia categoria, o crear una nueva con una nueva aproximacion, pero desde una perspectiva nueva. La serie de preguntas clave son?
 
     -Si la gente que me esta prestando atencion comprara algo, que seria? 
 
@@ -169,14 +194,14 @@ De eso trata este libro de como trabajar con un sistema que te ayuda a agregar m
 
 Recapitulando 
 
-1o empieza creando contenido con una idea de negocio desde el principio
+1.- Empieza creando contenido con una idea de negocio desde el principio
 
-2o Debes crear una estructura al rededor de ese nicho de mercado.
+2.- Debes crear una estructura al rededor de ese nicho de mercado.
 
 
 Que es un activo Digital? 
 
-Esto es historia antigua... Obviamente para los estándares de TikTok, Google, Facebook... jajaja 
+Esto es historia antigua... Obviamente para los estándares de TikTok, Google, Facebook... Hohoho
 
 El sistema por el cual la civilizacion occidental funciona es el sistema de propiedad privada, mas alla del supuesto capitalismo y/o socialismo, durante miles de años el unico derecho por el cual los gentiles pelearon, es el ser dueño del lugar donde se moria, de ahi nacieron los bienes raices, en ingles "Royal State" que era la parcela donde se muere, y porque este lugar era importante? bueno porque desde la cosmogonia occidental el lugar donde morir determinaba si irias al cielo. Ese derecho solo le pertenencia a los reyes y a los miembros de la iglesia. Todos los demas tuvimos que pelear por el derecho a tener donde morir. 
 
@@ -184,9 +209,9 @@ Morir con una tumba hace que tu identidad en vida sea respetada en el más allá
 
 Por qué la burguesia? bueno porque la burguesia habia logrado materializar el poder economico en el poder politico de la mano de los reyes y asi se obtuvo el derecho a poder comprar un pedazo de tierra donde morir, los primeros titulos de propiedad en la edad moderna eran para este tipo de propiedad. En esencia obtener la propiedad de un terreno era llegar a un consenso con la sociedad y ellos la sociedad por medio de los gobernante determinaba que ese pedazo era tuyo. 
 
-Toda la lucha de clases de la teoría marxista nace de la extraña dignidad que da el saber que si se tiene un lugar donde morir, tendremos asi un lugar asegurado en el cielo. Este privilegio viene de hacer algo privado en este caso hacer un pedazo de suelo, una parcela, o una casa. Esta identidad crea el sentido de pertenencia mas alla de la muerte a algo, un sentimiento intrínseco de los hominidos. 
+Toda la lucha de clases de la teoría marxista nace de la extraña dignidad que da el saber que si se tiene un lugar donde morir, tendremos asi un lugar asegurado en el cielo. Este privilegio viene de hacer algo privado en este caso hacer un pedazo de suelo, una parcela, o una casa. Esta identidad crea el sentido de pertenencia mas alla de la muerte a algo, un sentimiento intrínseco de los hominidos. La lucha de clases toma como parte de su nucleo extirpar la dignidad del ser humano sentir pertenecia por algo. 
 
-Parte privada osea que no pertenece a todos, solo a uno, eso le hace tener un privilegio sobre lo que se es de uno. En este caso el consenso es importante, esa palabra consenso. El reto "a posteriori" del estado es hacer posible que la lucha de clases sea justa y tenga reglas bien definidas de rotación social, no porque eso este bien o mal, ya que eso es irrelevante, sino porque mantiene el sistema funcionando. Orden sobre Caos. Todas las revoluciones de la historia se basan en quitar a una elite y poner a otra, este eterno bucle genera que el sistema de valores de la civilizacion cree un sistema mejor adaptado al medio.  
+Parte privada osea que no pertenece a todos, solo a uno, eso le hace tener un privilegio sobre lo que se sabe que es de uno. En este caso el consenso es importante, esa palabra consenso. El reto "a posteriori" del estado es hacer posible que la lucha de clases sea justa y tenga reglas bien definidas de rotación social, no porque eso este bien o mal, ya que eso es irrelevante, sino porque mantiene el sistema funcionando. Orden sobre Caos. Todas las revoluciones de la historia se basan en quitar a una elite y poner a otra, este eterno bucle genera que el sistema de valores de la civilizacion cree un sistema mejor adaptado al medio.  Un sistema debe estar en conflicto con el "Satus Quo" y asi crear su identidad como lucha en contra de lo establecido, al subir al lugar y ocupar el sitio del anterior provilegiado, se crea un nuevo "Satus Quo"
 
 Uno de los mejores ejemplos del uso del concepto consenso es cuando una comunidad de nativos de las islas polinesias usaban una roca para asignar valor sobre un bien. Un ejemplo muy famoso eran los habitantes de la Isla de Pascua (Rapa Nui).  Los monolitos que esta comunidad creaba y fomentaba eran usados para generar status y propiedad. 
 
@@ -218,7 +243,7 @@ Este modelo es perfecto siempre y cuando no sea corrompido por el politico en tu
 
 o como lo Dijera Amshel Rotchild, 
 
-“GIVE me control of a nation’s money supply, and I care not who makes its laws.”
+“Give me control of a nation’s money supply, and I care not who makes its laws.”
 
 Las bases de datos que pertenecen a un solo nodo y  pueden ser modificadas,  alteran toda la historia? Los registros son en esencia la memoria y la memoria se convierte en la realidad. No importa mucho lo que haya pasado o no, si no lo que recordamos. 
 
@@ -232,9 +257,13 @@ La confianza lo es todo! Cómo podemos confiar en sistemas obsoletos que nos han
 
 Solo las Blockchain y los protocolos, son  sistemas libres de confianza, donde no es necesario ya confiar, sistemas que son imposibles de corromper. Sin embargo estos sistemas necesitan una nueva forma de ver la economía. Y ese es el reto de las nuevas generaciones... Que significa confianza? Que significa valor? Que significa trabajo? Que significa dinero?
 
+En todo el mundo la confiana esta en crisis, los nuevos contenidos y las noticias creadas con IA crean una realidad que no existe pero que es indistingible de lo que es posible. Miles de personas preguntan al sistema de X`s para verificar si una noticia es real. Tal ve una de la mejoras mas importantes del equipo de Elon Musk al frente de la red social sea las notas de la comunidad. Este sistema ayuda a miles de personas a tener un contexto para decidir si tomar en cuenta una noticia o, no. 
+
 Hoy los Blockchain que sustentan la confianza en las crypto monedas de de primera generación, como podrian ser Bitcoin o Ethereum, han sido secuestrados por los ETF.
 
 Los contratos a futuro envuelven o derivan su valor a partir de un Bitcoin sin poseerlo. La comercialización de los ETF crea sistemas paralelos en distintos entorno de Blockchain o de mercado de derivados, esto es lo que hace que la promesa por la cual la escasez del Bitcoin se vea comprometida a largo plazo, porque alguien puede crear un smart contract de un Bitcoin sin poseerlo y de ahi manipular la oferta inicial del Bitcoin subyacente.
+
+
 
 Porque los blockchain si, y los NFT's no. aun?
 
@@ -250,7 +279,7 @@ El bloque génesis de Bitcoin lo dice textualmente.
 
 Las monedas del mundo se diluyen porque cada vez hay mas unidades en medio. Asi los gobiernos meten su mano en tu bolsillo por la noche para quitarte el valor de tu trabajo. 
 
-En este mundo digital que cada vez es mas compejo como podemos definir trabajo? Las próximas generaciones tendrán cada vez mas problemas para hacer respetar su trabajo. Frente a la atomización y a la división por la que apuestan los diversos gobiernos del mundo, una comunidad solida que genere sus propios activos al margen de los gobiernos es posible. 
+En este mundo digital que cada vez es mas complejo como podemos definir trabajo? Las próximas generaciones tendrán cada vez mas problemas para hacer respetar su trabajo. Frente a la atomización y a la división por la que apuestan los diversos gobiernos del mundo, una comunidad solida que genere sus propios activos al margen de los gobiernos es posible. 
 
 Como una primera generacion de creadores de contenido, los creadores se estan empezando a encontrar problemas de censura, de propiedad intelectual, de suplantacion de identidad, avatares digitales que llevan su rostro y su voz. 
 
@@ -264,13 +293,14 @@ Stephen Thaler es un científico de inteligencia artificial que aduce que su sis
 
 Los sistemas de inteligencia artificial no obtienen ni obtendran los beneficios ni las limitaciones de los marcos legales. Es ingenuo pensar que un contrato en el mundo fisico puede regular algo en el mundo virtual. Por ejemplo prohibir algo genera que sea mas económicamente rentable. Y si no pregunte a los carteles del mundo su negocio se basa en la escasez por prohibición. 
 
-La humanidad genero a lo largo de milenios una tecnología para subsanar problemas entre particulares y empresas. Esta tecnología ha funcionado durante cientos de años desde el codigo de Hammurabi hasta los codigos y leyes actuales. Pero necesitamos urgentemente un sistema de "contratos inteligentes" para poder ayudar a los próximos sistemas a definir su estatus legal frente a la sociedad, pero mas alla de su status legal un sistema de rastreo con el cual podamos seguir y detener sus acciones. Este es el sustento lógico para crear un Blockchain con identidad de seres humanos. Y ya hay empresas trabajando en ello.
+La humanidad genero a lo largo de milenios una tecnología para subsanar problemas entre particulares y empresas. Esta tecnología ha funcionado durante cientos de años desde el codigo de Hammurabi hasta los codigos y leyes actuales. Pero necesitamos urgentemente un sistema de "contratos inteligentes" para poder ayudar a los próximos sistemas a definir su estatus legal frente a la sociedad, pero mas alla de su status legal un sistema de rastreo con el cual podamos seguir y detener sus acciones. Este es el sustento lógico para crear un Blockchain con identidad de seres humanos. Y ya hay empresas trabajando en ello. 
+Nosotros tenemos una rama de la logistica con contratos inteligentes llamada "npaque" con la cual los robots de proxima generacion seran contratados para llevar paquetes, dentro de los ejemplos, llevar comida casera de su esposa, a un soldado en el frente de batalla. 
 
 Los restos digitales de cada ser humano deben ser tratados como algo digno de tener respeto. La ingente cantidad de datos que creamos a lo largo de nuestra vida son datasets que alimentan los grandes sistemas de lenguaje para poder presentar mejores respuestas en las soluciones de inteligencia artificial. Pero si los datasets de una persona que murio hace mil años son usados para un fin no correcto? En varios siglos podremos generar contenido con avatares digitales del siglo XXI? 
 
 Con el advenimiento de la inteligencia artificial, los nuevos sistemas crean influencers digitales los cuales en breve seran indistingibles de personas humanas. Este es el nucleo del proyecto de Sam Altman, "WorldCoin".*  
 
-Un amigo me invita a darme de alta en el protocolo, de WorldCoin, hemos discutido ampliamente el tema, y conociendo a Sam Altman se que el sistema es confiable dentro de los límites de la tecnología actual. Y aunque me da confianza el protocolo, no comparto los valores del sistema. Los futuros cryptoactivos seran definidos por la comunidad que les da respaldo al igual que una moneda de un país. No soy ciudadano de un país por vivir en la jurisdicción geográfica del país, sino por usar la moneda del país en cuestión.  Esto lo han entendido muy bien los BRIC'S. Y luchan por separarse del dólar al igual que en algún momento los imperios lucharon por separarse de la moneda del imperio español. La primera moneda global fue el famosísimo "Real de a 8"
+Un amigo me invita a darme de alta en el protocolo, de WorldCoin, hemos discutido ampliamente el tema, y conociendo a Sam Altman se que el sistema es confiable dentro de los límites de la tecnología actual. Y aunque me da confianza el protocolo, no comparto los valores del sistema. Los futuros cryptoactivos seran definidos por la comunidad que les da respaldo al igual que una moneda de un país. No soy ciudadano de un país por vivir en la jurisdicción geográfica del país, sino por usar la moneda del país en cuestión.  Esto lo han entendido muy bien los BRIC'S. Y luchan por separarse del dólar al igual que en algún momento los imperios lucharon por separarse de la moneda del imperio español. La primera moneda global fue el famosísimo "Real de a 8" que daba sentido al reino Español.
 
 Hoy los nuevos rieles sobre las que se harán las monedas del futuro son las Blockchain, cada Blockchain tendrá éxito de acuerdo al tipo de tecnología que subyace a la moneda. 
 
