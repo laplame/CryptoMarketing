@@ -5,7 +5,7 @@ _Libro en progreso — generado automáticamente por wrtr._
 
 ## Vista previa (lo último escrito)
 
-Guia para monetizar en redes sociales Que es vender Y vender 3 0 Cuando era pequeño mi papa se dedicaba comerciar productos al mayoreo Creci entre cajas de productos de belleza juguetes ropa y papeleria Mi papa vendia de todo para poder darnos una educación Yo en ese momento no entendia muy bien porque mi papa me decia que estaba viendo la mejor educacion frente a mis ojos La clasica frase de mi papa es Todo es venta también tenia esta otra frase aprende a vender y nunca seras pobre Algo que realmente me marco es que me enseñó que…
+Guia para monetizar en redes sociales Que es vender Y vender 3 0 la marca personal influencer growth partner el representante de vida Encontré tu canal y ahora se lo que necesito cuanto cuesta Otro gran maestro es Russel Branson que dice que la diferencia entre la cantidad de exito entre dos estrategias de marketing esta relacionado al sistema que esta detras de lo que el cliente no ve Hay una peste de influencers Despues del boom de redes sociales y la explosion que han hecho todos en la red tenemos miles de personas buscando ser virales en internet Esta…
 
 ## Contenido
 
