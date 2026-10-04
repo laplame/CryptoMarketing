@@ -2,7 +2,7 @@
 
 Guia para monetizar en redes sociales.
 
-Que es vender? Y vender 3.0
+# Que es vender? Y vender 3.0
 
 ```
 Cuando era pequeño mi papa se dedicaba comerciar productos al mayoreo. Creci entre cajas de productos de belleza, juguetes, ropa  y papeleria. Mi papa vendia de todo para poder darnos una educación. Yo en ese momento no entendia muy bien porque mi papa me decia que estaba viendo la mejor educacion frente a mis ojos. La clasica frase de mi papa es "Todo es venta!" también tenia esta otra frase  "aprende a vender y nunca seras pobre!""
@@ -184,7 +184,7 @@ Todo esto si el nicho de mercado esta bien construido. Es por ello que si vas a 
 -En quien me tengo que convertir para poder transmitir lo que se necesita con respecto a este tema?
 ```
 
-Deten un poco la lectura, toma una hoja de papel blanco y enfrenate a respoder estas preguntas, talvez tardes 5 minutos o dos semanas, pero haz ese ejercicio conciente de enfrentarte a esas preguntas honestamente. una vez que hayas respondido de forma honesta y sin trampas, tendras mas facil tu camino a generar milones por medio de tus redes sociales.
+Deten un poco la lectura, toma una hoja de papel blanco y enfrenate a respoder estas preguntas, tal vez tardes 5 minutos o dos semanas, pero haz ese ejercicio conciente de enfrentarte a esas preguntas honestamente. una vez que hayas respondido de forma honesta y sin trampas, tendras mas facil tu camino a generar milones por medio de tus redes sociales.
 
 ```
 La cantidad de lugares dentro de la mente de tu publico es finito, se resume a dos lugares, o maximo 3 espacios,pero despues de ello, la cantidad de variaciones es infinita, asi que el primer paso que debes entender para trabajar y ser un buen creador de contenido es definir a quien le estas hablando! 
@@ -314,7 +314,7 @@ Regresando al registro de la propiedad, qué registro debo usar? El registro en 
 
 Y justamente esa es la pregunta mas importante de la raza humana, en cuanto a lo que se puede nombrar humano.
 
-Que le da valor a algo? Si tenemos una base de datos con miles de patentes galácticas, que impide que un asistente inteligente pueda acceder a planos específicos de un sistema tan improbable en el universo que es estadísticamente imposible rehacer la investigación? Una investigación que esta 8 o 9 veces alejada de la desviación estándar mas favorable? Como damos valor y acceso a ese conocimiento? Y de quien es ese conocimiento? Por eso es que apostar por protocolos que definen como interactuan las partes dentro de un todo, preguntarnos quien vota, para que esa tecnología sea disponible? Que intercambio de valor es viable? En el futuro los sistemas trataran de forma directa con este dilema y tendran un sistema de valores para hacer algo o no. Sin la intervención de los humanos. Por eso son importantes los protocolos, osea un Blockchain con protocolos bien definidos.
+Que le da valor a algo? Si tenemos una base de datos con miles de patentes galácticas, que impide que un asistente inteligente pueda acceder a planos específicos de un sistema tan improbable en el universo que es estadísticamente imposible rehacer la investigación? Una investigación que esta 8 o 9 veces alejada de la desviación estándar mas favorable? Como damos valor y acceso a ese conocimiento? Y de quien es ese conocimiento? Por eso es que apostar por protocolos que definen como interactuan las partes dentro de un todo, preguntarnos quien vota, para que esa tecnología sea disponible? Qué intercambio de valor es viable? En el futuro los sistemas trataran de forma directa con este dilema y tendran un sistema de valores para hacer algo o no. Sin la intervención de los humanos. Por eso son importantes los protocolos, osea un Blockchain con protocolos bien definidos.
 
 Recordando las palabras de Jack Dorsey fundador de Twitter.
 
