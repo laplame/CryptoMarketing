@@ -449,6 +449,10 @@ Que es la atribución?
 
 En los medios digitales modernos, el usuario entra por distintos canales a un mismo site oara comprar algo, asi que si estamos cobrando por publicidad online es importante saber a quien se asigna que el merito de haber logrado que el usuario llegase al sitio.
 
+
+Dinero valor y distribucion 
+
+
 [https://x.com/jack/status/1562861302242226178?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1562861302242226178%7Ctwgr%5E037e6182a4d3da00168ab948ad7b1d705b442f42%7Ctwcon%5Es1\_c10&ref\_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2022%2F08%2F26%2Ftwitter-founder-jack-dorsey-says-his-biggest-regret-about-the-platform-is-it-became-a-comp](https://x.com/jack/status/1562861302242226178?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1562861302242226178%7Ctwgr%5E037e6182a4d3da00168ab948ad7b1d705b442f42%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2022%2F08%2F26%2Ftwitter-founder-jack-dorsey-says-his-biggest-regret-about-the-platform-is-it-became-a-comp)
 
 \*[https://www.perplexity.ai/search/que-es-worldcoin-w34ngjxcS.OKAxwJK0.BYQ#0](https://www.perplexity.ai/search/que-es-worldcoin-w34ngjxcS.OKAxwJK0.BYQ#0)
