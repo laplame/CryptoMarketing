@@ -452,6 +452,11 @@ En los medios digitales modernos, el usuario entra por distintos canales a un mi
 
 Dinero valor y distribucion 
 
+13 Y le enviaron algunos de los fariseos y de los herodianos, para que le sorprendiesen en alguna palabra. 14 Viniendo ellos, le dijeron: Maestro, sabemos que eres hombre veraz, y que no te cuidas de nadie; porque no miras la apariencia de los hombres, sino que con verdad enseñas el camino de Dios. ¿Es lícito dar tributo a César, o no? ¿Daremos, o no daremos? 15 Mas él, percibiendo la hipocresía de ellos, les dijo: ¿Por qué me tentáis? Traedme la moneda para que la vea. 16 Ellos se la trajeron; y les dijo: ¿De quién es esta imagen y la inscripción? Ellos le dijeron: De César. 17 Respondiendo Jesús, les dijo: Dad a César lo que es de César, y a Dios lo que es de Dios. Y se maravillaron de él.
+
+Hoy en dia el problema de la inflacion es un problema que afecta a la mayor parte del mundo. Miles de jovenes salen a las calles pensando que no tienen porvenir, las últimas generaciones de escolares se sienten defraudados por el sistema, y la educación, el malestar se puede sentir en cualquier parte del mundo de madrid a EEUU, pasando por Argentina, México, Grecia, Japón y todo el mundo occidental. El sentimiento de que el juego esta arreglado es unánime. Es asi?
+
+
 
 [https://x.com/jack/status/1562861302242226178?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1562861302242226178%7Ctwgr%5E037e6182a4d3da00168ab948ad7b1d705b442f42%7Ctwcon%5Es1\_c10&ref\_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2022%2F08%2F26%2Ftwitter-founder-jack-dorsey-says-his-biggest-regret-about-the-platform-is-it-became-a-comp](https://x.com/jack/status/1562861302242226178?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1562861302242226178%7Ctwgr%5E037e6182a4d3da00168ab948ad7b1d705b442f42%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2022%2F08%2F26%2Ftwitter-founder-jack-dorsey-says-his-biggest-regret-about-the-platform-is-it-became-a-comp)
 
