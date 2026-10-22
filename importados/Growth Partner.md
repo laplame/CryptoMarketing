@@ -452,6 +452,9 @@ En los medios digitales modernos, el usuario entra por distintos canales a un mi
 
 Dinero valor y distribucion 
 
+La cuestión del tributo
+(Mt. 22.15-22; Lc. 20.20-26)
+
 13 Y le enviaron algunos de los fariseos y de los herodianos, para que le sorprendiesen en alguna palabra. 14 Viniendo ellos, le dijeron: Maestro, sabemos que eres hombre veraz, y que no te cuidas de nadie; porque no miras la apariencia de los hombres, sino que con verdad enseñas el camino de Dios. ¿Es lícito dar tributo a César, o no? ¿Daremos, o no daremos? 15 Mas él, percibiendo la hipocresía de ellos, les dijo: ¿Por qué me tentáis? Traedme la moneda para que la vea. 16 Ellos se la trajeron; y les dijo: ¿De quién es esta imagen y la inscripción? Ellos le dijeron: De César. 17 Respondiendo Jesús, les dijo: Dad a César lo que es de César, y a Dios lo que es de Dios. Y se maravillaron de él.
 
 Cual es el problema mas importante de la humanidad?
