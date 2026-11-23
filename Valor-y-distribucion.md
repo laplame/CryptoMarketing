@@ -25,7 +25,7 @@ Miles de jovenes salen a las calles pensando que no tienen porvenir, las última
 
 Estos tres aspectos tienen su origen común es una pregunta que nadie quiere hacer, quien hace el dinero? Y por qué se distribuye así?
 
-La respuesta se esconde en el evangelio, preguntarle a Jesús que vale? implica que nos diga en que sistema operar?  Técnicamente es que cadena de bloques debo usar? Que sistema monetario? Que dimensión usar? Que sistema político? 
+La respuesta se esconde en el evangelio, preguntarle a Jesús que vale? implica que nos diga en que sistema operar?  Técnicamente es que cadena de bloques debo usar? Que sistema monetario? Que dimensión usar? Que sistema político? que unidad de medida y si esta unidad es una "unidad primigenia" o no.
 
 Lo que Jesus dice trasciende los siglos, si observas la moneda te daras cuenta que quien le da validez por medio de impuestos es quien acuna la moneda. Los sacerdotes crearon un sistema que funcionaba por encima del sistema de Roma por ese medio pedian que al templo se le pagara en monedas que ellos decian eran validad para dios. Esto daba sustento al sistema de tributo al templo y de los cambistas, que serian tambien despreciados por jesus en el pasaje de los cambistas del templo. 
 
